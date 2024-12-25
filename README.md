@@ -1,5 +1,5 @@
 # Header - README Template
-![Github Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Github logo - markdown")
+<img src="https://media.giphy.com/media/JrpfevOVogixZYWp9O/source.gif" width="400px" alt="preview"/>
 
 # Project
 <a class="anchor" id="about the project"></a>
